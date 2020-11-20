@@ -14,6 +14,7 @@ class ViewController: UIViewController {
 		super.viewDidLoad()
 		printTest(string: "HAmid1")
 		printTest2(string2: "Hamid2", int: 5)
+		printTest3(string3: "Hamid3")
 	}
 	
 	func printTest(string: String)  {
@@ -25,6 +26,11 @@ class ViewController: UIViewController {
 	}
 	
 	//AppStore 1
+	
+	//3
+	func printTest3(string3: String) {
+		print(string3)
+	}
 
 
 }
