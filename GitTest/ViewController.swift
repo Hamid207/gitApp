@@ -39,7 +39,7 @@ class ViewController: UIViewController {
 		print(string4)
 	}
 	
-	//AppStore 2
+	//AppStore 2 push githubbb
 
 }
 
