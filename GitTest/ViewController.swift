@@ -25,7 +25,8 @@ class ViewController: UIViewController {
 	}
 	
 	//AppStore 1
-
+	
+	//FIX BUGS
 
 }
 
