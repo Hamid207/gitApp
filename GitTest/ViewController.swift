@@ -38,6 +38,8 @@ class ViewController: UIViewController {
 	func printTest4(string4: String) {
 		print(string4)
 	}
+	
+	//AppStore 2
 
 }
 
