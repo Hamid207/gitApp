@@ -12,11 +12,16 @@ class ViewController: UIViewController {
 
 	override func viewDidLoad() {
 		super.viewDidLoad()
-		printTest(string: "HAmid")
+		printTest(string: "HAmid1")
+		printTest2(string2: "Hamid2")
 	}
 	
 	func printTest(string: String)  {
 		print(string)
+	}
+	
+	func printTest2(string2: String) {
+		print(string2)
 	}
 
 
