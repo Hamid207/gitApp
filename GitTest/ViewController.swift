@@ -13,14 +13,14 @@ class ViewController: UIViewController {
 	override func viewDidLoad() {
 		super.viewDidLoad()
 		printTest(string: "HAmid1")
-		printTest2(string2: "Hamid2")
+		printTest2(string2: "Hamid2", int: 5)
 	}
 	
 	func printTest(string: String)  {
 		print(string)
 	}
 	
-	func printTest2(string2: String) {
+	func printTest2(string2: String, int: Int) {
 		print(string2)
 	}
 
